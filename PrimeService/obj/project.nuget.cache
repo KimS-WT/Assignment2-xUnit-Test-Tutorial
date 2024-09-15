@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BGoSUtZxFQ1D8vxxkmd2/qWC1rvm8te5NKIKyYjGEtU1Xk9fao41nAdG6W5uuG9F133ywQeKhf9hoGfWyuDVxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kimsu\\OneDrive - West Texas A and M University\\Babb CIDM 4390\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kimsu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.8\\microsoft.windowsdesktop.app.ref.8.0.8.nupkg.sha512",
+    "C:\\Users\\kimsu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.8\\microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
